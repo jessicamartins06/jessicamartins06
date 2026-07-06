@@ -42,6 +42,7 @@ Atualmente estou focada em desenvolver projetos práticos para aprimorar minhas 
 * GitHub
 * VS Code
 * Figma
+* Notion
 * Chrome DevTools
 
 ---
