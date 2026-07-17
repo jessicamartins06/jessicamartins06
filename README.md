@@ -101,7 +101,7 @@ Estou sempre buscando aprender novas tecnologias, melhorar minhas habilidades e 
 
 🌎 Portfólio:
 
-🧮 <a href="https://github.com/jessicamartins06/calculadora-imc" target="_blank"> 
+🧮 <a href="https://www.github.com/jessicamartins06/calculadora-imc" target="_blank"> 
 Calculadora de IMC
 </a>
 
